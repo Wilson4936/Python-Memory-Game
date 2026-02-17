@@ -1,7 +1,7 @@
 # Python-Memory-Game
 This project was created in late 2022 for educational purposes to demonstrate core programming concepts in Python, including random generation, timers, user input handling, and game logic design. 
 
-## 🎮 How It Works
+## 🎮 How to Play
 
 1. **Select a Difficulty**
    - Easy
